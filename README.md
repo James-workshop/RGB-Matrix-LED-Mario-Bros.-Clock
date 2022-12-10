@@ -59,6 +59,7 @@ In my case, I type "Asia/Hong_Kong" in the timezone field on WiFi Manager not wo
 ## For a more detailed tutorial, please watch my video
 <a href="https://youtu.be/MCjrmfSF1EU">https://youtu.be/MCjrmfSF1EU</a>
 ![github](https://github.com/James-workshop/RGB-Matrix-LED-Mario-Bros.-Clock/blob/main/IMG/Mario brother Clock I.jpg "Youtube Cover Photo")
+<BR><BR>
 <a href="https://youtu.be/UVlxxYB1LpE">https://youtu.be/UVlxxYB1LpE</a>
 ![github](https://github.com/James-workshop/RGB-Matrix-LED-Mario-Bros.-Clock/blob/main/IMG/Mario brother Clock II.jpg "Youtube Cover Photo")
     
