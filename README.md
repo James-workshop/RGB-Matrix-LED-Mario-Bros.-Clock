@@ -56,11 +56,11 @@ The first time you run it, you need to configure the WiFi, for that connect to t
 WiFi Manager is responsible for collecting the timezone parameter used in the clock to show the time correctly. When instantiating the NTP client, the default time is in UTC, we need to inform the correct timezone during the Wifi setup process. All the available timezone names is listed here, e.g. America/New_York, Asia/Dubai, Europe/Paris, and so on.
 In my case, I type "Asia/Hong_Kong" in the timezone field on WiFi Manager not work. In the end I need typed Asia/Macau to work  
   
-## For a more detailed tutorial, please watch my video
+## For a more detail, please watch my video
 <a href="https://youtu.be/MCjrmfSF1EU">https://youtu.be/MCjrmfSF1EU</a>
-![github](https://github.com/James-workshop/RGB-Matrix-LED-Mario-Bros.-Clock/blob/main/IMG/Mario brother Clock I.jpg "Youtube Cover Photo")
+  ![github](https://github.com/James-workshop/RGB-Matrix-LED-Mario-Bros.-Clock/blob/main/IMG/Mario%20brother%20Clock%20I.jpg "Youtube Cover Photo")
 <BR><BR>
 <a href="https://youtu.be/UVlxxYB1LpE">https://youtu.be/UVlxxYB1LpE</a>
-![github](https://github.com/James-workshop/RGB-Matrix-LED-Mario-Bros.-Clock/blob/main/IMG/Mario brother Clock II.jpg "Youtube Cover Photo")
+  ![github](https://github.com/James-workshop/RGB-Matrix-LED-Mario-Bros.-Clock/blob/main/IMG/Mario%20Brother%20Clock%20II.jpg "Youtube Cover Photo")
     
     
