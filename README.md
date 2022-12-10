@@ -39,7 +39,13 @@ I made a PCB at JLCPCB.com, which makes it very easy to make!
 
 ![github](https://github.com/James-workshop/RGB-Matrix-LED-Mario-Bros.-Clock/blob/main/IMG/21.jpg "PCB")
 <BR><BR><BR>
+# PCB Assembly
+  
+![github](https://github.com/James-workshop/RGB-Matrix-LED-Mario-Bros.-Clock/blob/main/IMG/23.jpg "PCBA")
+  
+Just solder according to the schematic diagram, and then assemble the PCB on the LED paneland connect the power
 
+<BR><BR><BR>
 # Firmware
 Thanks Brian & Jnthas for that, we can use the Clockwise.page to upload firmware without having to install anything and without making any effort as it is already compiled. Just plug the ESP32 into the USB port and click Flash to flash.
 
@@ -52,5 +58,8 @@ In my case, I type "Asia/Hong_Kong" in the timezone field on WiFi Manager not wo
   
 ## For a more detailed tutorial, please watch my video
 <a href="https://youtu.be/MCjrmfSF1EU">https://youtu.be/MCjrmfSF1EU</a>
-  <BR><BR>
+![github](https://github.com/James-workshop/RGB-Matrix-LED-Mario-Bros.-Clock/blob/main/IMG/Mario brother Clock I.jpg "Youtube Cover Photo")
 <a href="https://youtu.be/UVlxxYB1LpE">https://youtu.be/UVlxxYB1LpE</a>
+![github](https://github.com/James-workshop/RGB-Matrix-LED-Mario-Bros.-Clock/blob/main/IMG/Mario brother Clock II.jpg "Youtube Cover Photo")
+    
+    
