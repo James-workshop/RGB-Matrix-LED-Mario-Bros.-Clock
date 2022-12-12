@@ -15,6 +15,8 @@ Since this project uses ESP32-HUB75-MatrixPanel-DMA library, due to the high-spe
 * ICN2038S
 * FM6124
 * SM5266P
+
+
 Therefore, before purchasing any LED Panel, you should consult the seller, what LED driver IC does the LED Panel use?
 
 # Hardware
