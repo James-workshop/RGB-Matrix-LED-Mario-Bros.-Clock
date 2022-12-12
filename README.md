@@ -5,6 +5,18 @@ Super Mario is my childhood memory, when I saw JnthasMario Bros. Clock project, 
 
 Here is a record of my production process.
 
+# Important Notes
+Since this project uses ESP32-HUB75-MatrixPanel-DMA library, due to the high-speed optimized nature of this library, only specific LED panels are supported. 
+
+## LED Panel driver chips known to be working well
+* ICND2012
+* RUC7258
+* FM6126A
+* ICN2038S
+* FM6124
+* SM5266P
+Therefore, before purchasing any LED Panel, you should consult the seller, what LED driver IC does the LED Panel use?
+
 # Hardware
 * Custom PCB x 1
 * LED panel (HUB75； RGB 64 X 64；P3）
